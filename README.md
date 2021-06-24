@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Raphael Morsomme and I am Ph.D. student in statistics at Duke University.
+- 👋 Hi, my name is Raphael Morsomme and I am a Ph.D. student in statistics at Duke University.
 - 👀 I am working on inferential algorithms for partially observed stochastic process. At the moment, I am developping an efficient DA-MCMC algorithm for conducting inference on the stochastic SIR model with incidence data.
 
 
